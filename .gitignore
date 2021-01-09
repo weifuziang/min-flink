@@ -1,0 +1,7 @@
+/flink-stream/target/*
+/flink-stream/dependency-reduced-pom.xml
+/flink-stream/flink-stream.iml
+*/.idea
+.idea
+*.swp
+*.DS_Store
