@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="flink-annotations" />
+        <module name="flink-clients_2.11" />
+        <module name="flink-core" />
+        <module name="flink-examples-streaming_2.11" />
+        <module name="flink-runtime_2.11" />
+        <module name="flink-streaming-java_2.11" />
+        <module name="force-shading" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="flink-annotations" options="-Xpkginfo:always" />
+      <module name="flink-clients_2.11" options="-Xpkginfo:always" />
+      <module name="flink-core" options="-Xpkginfo:always" />
+      <module name="flink-examples-streaming_2.11" options="-Xpkginfo:always" />
+      <module name="flink-runtime_2.11" options="-Xpkginfo:always" />
+      <module name="flink-streaming-java_2.11" options="-Xpkginfo:always" />
+    </option>
+  </component>
+</project>

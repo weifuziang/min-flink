@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-annotations" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-clients" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-examples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-examples/flink-examples-streaming" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-runtime" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-streaming-java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tools/force-shading" charset="UTF-8" />
+  </component>
+</project>
